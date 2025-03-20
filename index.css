@@ -127,7 +127,7 @@ header label ion-icon
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background: url('/picture/bg4.jpeg');
+    background: url('E.pictures/bg4.jpeg');
     background-size: cover;
     background-position: center;
 }
